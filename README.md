@@ -1,8 +1,8 @@
 # Aditya_Kharat
 
-A new Flutter project.
+A flutter project made me and I'm 15 years old.
 
-## Getting Started
+## Lets build apps for cross platforms!!!
 
 This project is a starting point for a Flutter application.
 
